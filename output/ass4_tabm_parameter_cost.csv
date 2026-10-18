@@ -1,0 +1,4 @@
+,parameters
+"TabM, k = 1 (one MLP)",635601
+"TabM, k = 32",927776
+32 independent MLPs,20339232

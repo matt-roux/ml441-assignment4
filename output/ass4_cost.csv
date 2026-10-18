@@ -1,0 +1,6 @@
+,oof_seconds_per_fold,tuning_seconds_per_fold
+A2 k-NN,676.42,
+Revised k-NN,216.42,4617.0476496238
+TabM,404.62,4977.326910830187
+A2 tree,18.740000000000002,
+Revised tree,16.28,184.98234651819948

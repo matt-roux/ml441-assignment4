@@ -1,0 +1,11 @@
+model,outer_fold,inner_macro_f1,preprocess__min_frequency,model__min_samples_split,model__min_samples_leaf,model__max_features,model__max_depth,model__criterion,model__class_weight,model__ccp_alpha,preprocess__scaling,preprocess__correlation_threshold,preprocess__selector_k,model__p,model__n_neighbors,model__weights
+tree,1,0.5808807694469241,,2.0,1.0,,24.0,gini,balanced,0.0,,,,,,
+tree,2,0.5860427164372369,50.0,10.0,1.0,,16.0,entropy,balanced,0.0001,,,,,,
+tree,3,0.5832709021472732,50.0,10.0,1.0,,16.0,entropy,balanced,0.0001,,,,,,
+tree,4,0.5775309820552503,50.0,10.0,1.0,,16.0,entropy,balanced,0.0001,,,,,,
+tree,5,0.5866718903222162,50.0,10.0,1.0,,16.0,entropy,balanced,0.0001,,,,,,
+knn,1,0.5194358635354094,,,,,,,,,robust,,,1.0,11.0,distance
+knn,2,0.5198038981051706,,,,,,,,,robust,,,1.0,11.0,distance
+knn,3,0.5111851457526932,50.0,,,,,,,,robust,,,1.0,5.0,distance
+knn,4,0.5191600332631682,50.0,,,,,,,,robust,,,1.0,5.0,distance
+knn,5,0.5202733253436588,50.0,,,,,,,,robust,,,1.0,11.0,distance

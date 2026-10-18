@@ -1,0 +1,15 @@
+component,value
+python,3.12.3
+platform,Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+numpy,2.4.6
+pandas,3.0.3
+scipy,1.18.1
+scikit-learn,1.9.0
+matplotlib,3.11.1
+torch,2.13.0+cu129
+tabm,0.0.3
+rtdl_num_embeddings,0.0.12
+cuml-cu12,26.8.0
+cuda_runtime,12.9
+gpu,NVIDIA GeForce RTX 5070 Ti
+random_seed,21

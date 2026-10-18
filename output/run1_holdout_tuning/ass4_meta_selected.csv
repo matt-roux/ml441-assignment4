@@ -1,0 +1,11 @@
+stack,outer_fold,representation,C,class_weight,mean_test_score
+S1,1,proba,10.0,none,0.5476796989964011
+S1,2,proba,10.0,none,0.5628637868047887
+S1,3,proba,10.0,none,0.5653425722186962
+S1,4,proba,0.01,none,0.5551207902131212
+S1,5,one_hot,0.01,balanced,0.5565978559199815
+S2,1,proba,1.0,none,0.5595442786498492
+S2,2,one_hot,0.01,balanced,0.5747769561135833
+S2,3,proba,0.1,none,0.5713423530948576
+S2,4,proba,0.01,none,0.5579098121704269
+S2,5,proba,1.0,none,0.5591319719931866

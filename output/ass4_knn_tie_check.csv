@@ -1,0 +1,2 @@
+outer_fold,k,test_rows_with_boundary_tie,cuml_sklearn_disagreement,sklearn_macro_f1,cuml_macro_f1,cuml_fit_predict_seconds,sklearn_oof_seconds_per_fit
+1,3,0.421014844280586,0.10057242650625789,0.5007867273167961,0.4922527069363459,63.18804680699941,168.75

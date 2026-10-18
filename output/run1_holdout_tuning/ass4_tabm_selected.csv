@@ -1,0 +1,6 @@
+outer_fold,k,d_block,n_blocks,dropout,lr,class_weight,distinct_batches,question,val_macro_f1,epochs
+1,32,256,3,0.0,0.001,False,False,Q4 capacity,0.5550363828587686,21
+2,32,256,2,0.1,0.002,False,False,Q4 capacity,0.5477052372740123,29
+3,32,256,2,0.1,0.002,False,False,Q4 capacity,0.5436928440488183,29
+4,4,512,3,0.0,0.002,False,False,Q1 ensemble size,0.5707779124830236,51
+5,8,512,3,0.1,0.001,False,False,Q1 ensemble size,0.5577996779306387,26
